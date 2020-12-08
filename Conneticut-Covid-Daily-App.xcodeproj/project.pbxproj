@@ -15,6 +15,7 @@
 		046F0D05257F3C960023742A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046F0D03257F3C960023742A /* LaunchScreen.storyboard */; };
 		046F0D10257F3C970023742A /* Conneticut_Covid_Daily_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046F0D0F257F3C970023742A /* Conneticut_Covid_Daily_AppTests.swift */; };
 		046F0D1B257F3C970023742A /* Conneticut_Covid_Daily_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046F0D1A257F3C970023742A /* Conneticut_Covid_Daily_AppUITests.swift */; };
+		046F0D34257F43C90023742A /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = 046F0D33257F43C90023742A /* fonts */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		046F0D16257F3C970023742A /* Conneticut-Covid-Daily-AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Conneticut-Covid-Daily-AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		046F0D1A257F3C970023742A /* Conneticut_Covid_Daily_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conneticut_Covid_Daily_AppUITests.swift; sourceTree = "<group>"; };
 		046F0D1C257F3C970023742A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		046F0D33257F43C90023742A /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fonts; path = ../../../../../fonts; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				046F0D0E257F3C970023742A /* Conneticut-Covid-Daily-AppTests */,
 				046F0D19257F3C970023742A /* Conneticut-Covid-Daily-AppUITests */,
 				046F0CF6257F3C920023742A /* Products */,
+				046F0D33257F43C90023742A /* fonts */,
 			);
 			sourceTree = "<group>";
 		};
@@ -234,6 +237,7 @@
 				046F0D05257F3C960023742A /* LaunchScreen.storyboard in Resources */,
 				046F0D02257F3C960023742A /* Assets.xcassets in Resources */,
 				046F0D00257F3C920023742A /* Main.storyboard in Resources */,
+				046F0D34257F43C90023742A /* fonts in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
